@@ -10,7 +10,10 @@
 
     ```
     * From the main directory, create a new directory *0x01-git*
-    ``mkdir 0x01-git``
+    ```
+    mkdir 0x01-git
+    
+    ```
 
     * Change into this new directory and create a README.md file
 
